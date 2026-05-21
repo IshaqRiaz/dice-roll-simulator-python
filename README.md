@@ -40,3 +40,24 @@ dice-roll-simulator-python/
 
 ```bash
 git clone https://github.com/your-username/dice-roll-simulator-python.git
+
+Navigate to project folder:
+cd dice-roll-simulator-python
+Run the program:
+python main.py
+---
+##📌 Learning Outcome
+
+This project helped me improve my understanding of:
+
+Python loops and conditions
+User input handling
+Exception handling
+Random number generation
+Basic program structure
+
+## 👨‍💻 Author
+
+Muhammad Ishaq
+Software Engineering Graduate
+Intern at Arch Technologies
